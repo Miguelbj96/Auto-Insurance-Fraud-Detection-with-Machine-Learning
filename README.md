@@ -105,7 +105,7 @@ Evaluar el costo-beneficio de ajustar el umbral de clasificación para equilibra
 ## 🌍 Conectemos  
 # Miguel Briones👨🏽‍💻
 <a href="mailto:miguelbrionesjara@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.linkedin.com/in/miguel-angel-briones-jara-4308471b7" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguel-angel-briones-jara-4308471b7" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 # Jemima Moreira 👩🏽‍💻
 <a href="mailto:jhemy321@hotmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jemimamoreiraguzman/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
